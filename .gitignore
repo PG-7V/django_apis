@@ -136,4 +136,4 @@ GitHub.sublime-settings
 !.vscode/launch.json
 !.vscode/extensions.json
 .history
-django_apis/settings.py
+config/settings.py
