@@ -7,4 +7,4 @@ class BookListView(ListView):
     model = Book
     template = 'book_list.html'
 
-   # 34(41) page
+# 34(41) page
