@@ -6,3 +6,5 @@ from apps.books.models import Book
 class BookListView(ListView):
     model = Book
     template = 'book_list.html'
+
+   # 34(41) page
